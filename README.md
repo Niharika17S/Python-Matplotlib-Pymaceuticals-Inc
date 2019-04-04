@@ -1,4 +1,4 @@
-# Matplotlib-homework
+# Pymaceuticals Inc
 ![Laboratory](Images/Laboratory.jpg)
 
 In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. The objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
